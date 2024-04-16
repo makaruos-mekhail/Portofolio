@@ -106,7 +106,6 @@
 
 ###
 
-//<img src="https://raw.githubusercontent.com/makaruos-mekhail/makaruos-mekhail/output/snake.svg" alt="Snake animation" />
 
 ###
 

@@ -98,7 +98,7 @@
 
 ###
 
-<p align="left">Team Work<br>Self-Learning<br>Research Skills<br>Clean Code</p>
+<p align="left">Team Work / Self-Learning / Research Skills / Clean Code</p>
 
 ###
 
